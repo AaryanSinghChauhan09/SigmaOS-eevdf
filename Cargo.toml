@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-eevdf"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS eevdf component - kernel_subsystem"
+
+[lib]
+name = "eevdf"
+path = "src/lib.rs"
